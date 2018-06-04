@@ -33,7 +33,7 @@ console.log(`The first link text is: ${linkText}`)
 console.log(`The first link href is: ${linkHref}`)
 ```
 
-Let's take a look at what is going on.
+Let's take a look at what is on.
 
 The first three lines are _variable definitions_. Variables in JavaScript are just like you remember them in Algebra. They are simply names for some sort of data. The `=` sign assigns whatever is on the right side to be held inside of whatever is on the left side. With the default code the phrase `"ENTER HEADER CODE HERE"` is held inside of the `header` variable.
 
